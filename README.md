@@ -1,1 +1,3 @@
-# Day-1--Plants-vs-zombies-_Muhammad-Luthfi-Fauzi-Imani
+   git add .
+   git commit -m "Add README"
+   git push
